@@ -6,4 +6,4 @@ I leave both project options
 
 second branch
 
-branch 3
+new conflict
